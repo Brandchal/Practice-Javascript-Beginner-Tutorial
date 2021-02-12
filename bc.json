@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://peach-bedbug-t5iawtp8.ws-us03.gitpod.io",
+        "address": "https://bronze-harrier-h8ufvxtx.ws-us03.gitpod.io",
         "editor": {
             "mode": "gitpod",
             "version": "1.0.56"
@@ -14,6 +14,9 @@
         "exercisesPath": "./exercises",
         "disableGrading": false,
         "actions": [
+            "build",
+            "test",
+            "reset",
             "build",
             "test",
             "reset"
@@ -98,7 +101,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 2,
@@ -133,7 +136,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 3,
@@ -168,7 +171,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 4,

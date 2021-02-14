@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://olive-owl-n19202rs.ws-us03.gitpod.io",
+        "address": "https://gray-meerkat-5xq5hrgv.ws-us03.gitpod.io",
         "editor": {
             "mode": "gitpod",
             "version": "1.0.56"
@@ -14,6 +14,9 @@
         "exercisesPath": "./exercises",
         "disableGrading": false,
         "actions": [
+            "build",
+            "test",
+            "reset",
             "build",
             "test",
             "reset",
@@ -139,7 +142,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 3,
@@ -174,7 +177,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 4,
@@ -244,7 +247,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 6,
@@ -279,7 +282,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 7,
@@ -314,7 +317,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 8,
@@ -384,7 +387,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 10,
@@ -419,7 +422,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 11,
@@ -454,7 +457,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 12,

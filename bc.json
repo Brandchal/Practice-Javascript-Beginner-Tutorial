@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://emerald-yak-ao2kohj4.ws-us03.gitpod.io",
+        "address": "https://tan-manatee-7hqu18ez.ws-us03.gitpod.io",
         "editor": {
             "mode": "gitpod",
             "version": "1.0.56"
@@ -14,6 +14,9 @@
         "exercisesPath": "./exercises",
         "disableGrading": false,
         "actions": [
+            "build",
+            "test",
+            "reset",
             "build",
             "test",
             "reset",
@@ -600,7 +603,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 16,
@@ -635,7 +638,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 17,
@@ -705,7 +708,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 19,

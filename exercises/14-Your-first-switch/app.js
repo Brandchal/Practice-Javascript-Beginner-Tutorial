@@ -17,7 +17,7 @@ function getColor(selection) {
             return false;  //returns false because the user picked an unavailable color
             break;
     }}
-var colorname = prompt('What color do you want?').toUpperCase();
+var colorname = prompt('What color do you want?').toUpperCase().trim();
 var isAvailable = getColor(colorname);
 
 if (isAvailable)

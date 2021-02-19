@@ -7,8 +7,8 @@ function startCounting() {
         console.log(counter);
         counter = counter - 1;
     }
-
-    return counter;
+return counter;
+    
 }
 
 startCounting();
